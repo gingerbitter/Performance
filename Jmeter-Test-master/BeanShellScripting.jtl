@@ -1,0 +1,1565 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="1644" it="0" lt="1641" ct="0" ts="1674131139254" s="true" lb="SuperAdminLogin" rc="201" rm="Created" tn="TestCase-3 1-1" dt="text" by="6390" sby="0" ng="1" na="1">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/login/virtual-signin</java.net.URL>
+</httpSample>
+<httpSample t="95" it="0" lt="95" ct="0" ts="1674131140932" s="true" lb="Schedule" rc="200" rm="OK" tn="TestCase-3 1-1" dt="text" by="5241" sby="0" ng="1" na="1">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/schedule-new/</java.net.URL>
+</httpSample>
+<httpSample t="347" it="0" lt="345" ct="0" ts="1674131151195" s="true" lb="SuperAdminLogin" rc="201" rm="Created" tn="TestCase-3 1-2" dt="text" by="6390" sby="0" ng="2" na="2">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/login/virtual-signin</java.net.URL>
+</httpSample>
+<httpSample t="115" it="0" lt="108" ct="0" ts="1674131151546" s="true" lb="Schedule" rc="200" rm="OK" tn="TestCase-3 1-2" dt="text" by="5241" sby="0" ng="2" na="2">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/schedule-new/</java.net.URL>
+</httpSample>
+<httpSample t="287" it="0" lt="287" ct="0" ts="1674131163171" s="true" lb="SuperAdminLogin" rc="201" rm="Created" tn="TestCase-3 1-3" dt="text" by="6390" sby="0" ng="3" na="3">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/login/virtual-signin</java.net.URL>
+</httpSample>
+<httpSample t="126" it="0" lt="124" ct="0" ts="1674131163477" s="true" lb="Schedule" rc="200" rm="OK" tn="TestCase-3 1-3" dt="text" by="5241" sby="0" ng="3" na="3">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/schedule-new/</java.net.URL>
+</httpSample>
+<httpSample t="299" it="0" lt="297" ct="0" ts="1674131175174" s="true" lb="SuperAdminLogin" rc="201" rm="Created" tn="TestCase-3 1-4" dt="text" by="6390" sby="0" ng="4" na="4">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/login/virtual-signin</java.net.URL>
+</httpSample>
+<httpSample t="145" it="0" lt="144" ct="0" ts="1674131175478" s="true" lb="Schedule" rc="200" rm="OK" tn="TestCase-3 1-4" dt="text" by="5241" sby="0" ng="4" na="4">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/schedule-new/</java.net.URL>
+</httpSample>
+<httpSample t="300" it="0" lt="300" ct="0" ts="1674131187165" s="true" lb="SuperAdminLogin" rc="201" rm="Created" tn="TestCase-3 1-5" dt="text" by="6390" sby="0" ng="5" na="5">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/login/virtual-signin</java.net.URL>
+</httpSample>
+<httpSample t="119" it="0" lt="119" ct="0" ts="1674131187467" s="true" lb="Schedule" rc="200" rm="OK" tn="TestCase-3 1-5" dt="text" by="5241" sby="0" ng="5" na="5">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/schedule-new/</java.net.URL>
+</httpSample>
+<httpSample t="291" it="0" lt="291" ct="0" ts="1674131199163" s="true" lb="SuperAdminLogin" rc="201" rm="Created" tn="TestCase-3 1-6" dt="text" by="6390" sby="0" ng="6" na="6">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/login/virtual-signin</java.net.URL>
+</httpSample>
+<httpSample t="130" it="0" lt="129" ct="0" ts="1674131199460" s="true" lb="Schedule" rc="200" rm="OK" tn="TestCase-3 1-6" dt="text" by="5241" sby="0" ng="6" na="6">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/schedule-new/</java.net.URL>
+</httpSample>
+<httpSample t="334" it="0" lt="334" ct="0" ts="1674131211161" s="true" lb="SuperAdminLogin" rc="201" rm="Created" tn="TestCase-3 1-7" dt="text" by="6390" sby="0" ng="7" na="7">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/login/virtual-signin</java.net.URL>
+</httpSample>
+<httpSample t="152" it="0" lt="152" ct="0" ts="1674131211499" s="true" lb="Schedule" rc="200" rm="OK" tn="TestCase-3 1-7" dt="text" by="5241" sby="0" ng="7" na="7">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/schedule-new/</java.net.URL>
+</httpSample>
+<httpSample t="271" it="0" lt="268" ct="0" ts="1674131223160" s="true" lb="SuperAdminLogin" rc="201" rm="Created" tn="TestCase-3 1-8" dt="text" by="6390" sby="0" ng="8" na="8">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/login/virtual-signin</java.net.URL>
+</httpSample>
+<httpSample t="113" it="0" lt="111" ct="0" ts="1674131223440" s="true" lb="Schedule" rc="200" rm="OK" tn="TestCase-3 1-8" dt="text" by="5241" sby="0" ng="8" na="8">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/schedule-new/</java.net.URL>
+</httpSample>
+<httpSample t="234" it="0" lt="234" ct="0" ts="1674131235153" s="true" lb="SuperAdminLogin" rc="201" rm="Created" tn="TestCase-3 1-9" dt="text" by="6390" sby="0" ng="9" na="9">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/login/virtual-signin</java.net.URL>
+</httpSample>
+<httpSample t="91" it="0" lt="90" ct="0" ts="1674131235388" s="true" lb="Schedule" rc="200" rm="OK" tn="TestCase-3 1-9" dt="text" by="5241" sby="0" ng="9" na="9">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/schedule-new/</java.net.URL>
+</httpSample>
+<httpSample t="273" it="0" lt="271" ct="0" ts="1674131247150" s="true" lb="SuperAdminLogin" rc="201" rm="Created" tn="TestCase-3 1-10" dt="text" by="6390" sby="0" ng="10" na="10">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/login/virtual-signin</java.net.URL>
+</httpSample>
+<httpSample t="169" it="0" lt="169" ct="0" ts="1674131247424" s="true" lb="Schedule" rc="200" rm="OK" tn="TestCase-3 1-10" dt="text" by="5241" sby="0" ng="10" na="10">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/schedule-new/</java.net.URL>
+</httpSample>
+<httpSample t="349" it="0" lt="349" ct="0" ts="1674131247596" s="true" lb="UserManagement" rc="200" rm="OK" tn="TestCase-3 1-10" dt="text" by="5227" sby="0" ng="10" na="10">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/user/stats?type=week&amp;fromDate=2023-01-10&amp;toDate=2023-01-17</java.net.URL>
+</httpSample>
+<httpSample t="484" it="0" lt="483" ct="0" ts="1674131247619" s="true" lb="UserManagement" rc="200" rm="OK" tn="TestCase-3 1-7" dt="text" by="5227" sby="0" ng="10" na="10">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/user/stats?type=week&amp;fromDate=2023-01-10&amp;toDate=2023-01-17</java.net.URL>
+</httpSample>
+<httpSample t="508" it="0" lt="508" ct="0" ts="1674131247599" s="true" lb="UserManagement" rc="200" rm="OK" tn="TestCase-3 1-1" dt="text" by="5227" sby="0" ng="10" na="10">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/user/stats?type=week&amp;fromDate=2023-01-10&amp;toDate=2023-01-17</java.net.URL>
+</httpSample>
+<httpSample t="494" it="0" lt="490" ct="0" ts="1674131247622" s="true" lb="UserManagement" rc="200" rm="OK" tn="TestCase-3 1-8" dt="text" by="5227" sby="0" ng="10" na="10">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/user/stats?type=week&amp;fromDate=2023-01-10&amp;toDate=2023-01-17</java.net.URL>
+</httpSample>
+<httpSample t="501" it="0" lt="501" ct="0" ts="1674131247615" s="true" lb="UserManagement" rc="200" rm="OK" tn="TestCase-3 1-5" dt="text" by="5227" sby="0" ng="10" na="10">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/user/stats?type=week&amp;fromDate=2023-01-10&amp;toDate=2023-01-17</java.net.URL>
+</httpSample>
+<httpSample t="519" it="0" lt="518" ct="0" ts="1674131247601" s="true" lb="UserManagement" rc="200" rm="OK" tn="TestCase-3 1-2" dt="text" by="5227" sby="0" ng="10" na="10">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/user/stats?type=week&amp;fromDate=2023-01-10&amp;toDate=2023-01-17</java.net.URL>
+</httpSample>
+<httpSample t="516" it="0" lt="516" ct="0" ts="1674131247604" s="true" lb="UserManagement" rc="200" rm="OK" tn="TestCase-3 1-3" dt="text" by="5227" sby="0" ng="10" na="10">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/user/stats?type=week&amp;fromDate=2023-01-10&amp;toDate=2023-01-17</java.net.URL>
+</httpSample>
+<httpSample t="507" it="0" lt="505" ct="0" ts="1674131247614" s="true" lb="UserManagement" rc="200" rm="OK" tn="TestCase-3 1-4" dt="text" by="5227" sby="0" ng="10" na="10">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/user/stats?type=week&amp;fromDate=2023-01-10&amp;toDate=2023-01-17</java.net.URL>
+</httpSample>
+<httpSample t="515" it="0" lt="502" ct="0" ts="1674131247618" s="true" lb="UserManagement" rc="200" rm="OK" tn="TestCase-3 1-6" dt="text" by="5227" sby="0" ng="10" na="10">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/user/stats?type=week&amp;fromDate=2023-01-10&amp;toDate=2023-01-17</java.net.URL>
+</httpSample>
+<httpSample t="508" it="0" lt="507" ct="0" ts="1674131247626" s="true" lb="UserManagement" rc="200" rm="OK" tn="TestCase-3 1-9" dt="text" by="5227" sby="0" ng="10" na="10">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/user/stats?type=week&amp;fromDate=2023-01-10&amp;toDate=2023-01-17</java.net.URL>
+</httpSample>
+<httpSample t="781" it="0" lt="753" ct="0" ts="1674131247946" s="true" lb="Fee" rc="200" rm="OK" tn="TestCase-3 1-10" dt="text" by="33624" sby="0" ng="10" na="10">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/feev2?type=week&amp;startDate=2023-01-15&amp;endDate=2023-01-21</java.net.URL>
+</httpSample>
+<httpSample t="117" it="0" lt="117" ct="0" ts="1674131248729" s="true" lb="Classrooms" rc="200" rm="OK" tn="TestCase-3 1-10" dt="text" by="8557" sby="0" ng="10" na="10">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/standards</java.net.URL>
+</httpSample>
+<httpSample t="108" it="0" lt="108" ct="0" ts="1674131248848" s="true" lb="Courses" rc="200" rm="OK" tn="TestCase-3 1-10" dt="text" by="6776" sby="0" ng="10" na="10">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/standards/allCourses</java.net.URL>
+</httpSample>
+<httpSample t="928" it="0" lt="897" ct="0" ts="1674131248109" s="true" lb="Fee" rc="200" rm="OK" tn="TestCase-3 1-1" dt="text" by="33624" sby="0" ng="9" na="9">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/feev2?type=week&amp;startDate=2023-01-15&amp;endDate=2023-01-21</java.net.URL>
+</httpSample>
+<httpSample t="85" it="0" lt="84" ct="0" ts="1674131249038" s="true" lb="Classrooms" rc="200" rm="OK" tn="TestCase-3 1-1" dt="text" by="8557" sby="0" ng="9" na="9">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/standards</java.net.URL>
+</httpSample>
+<httpSample t="94" it="0" lt="93" ct="0" ts="1674131249126" s="true" lb="Courses" rc="200" rm="OK" tn="TestCase-3 1-1" dt="text" by="6776" sby="0" ng="9" na="9">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/standards/allCourses</java.net.URL>
+</httpSample>
+<httpSample t="1116" it="0" lt="1094" ct="0" ts="1674131248104" s="true" lb="Fee" rc="200" rm="OK" tn="TestCase-3 1-7" dt="text" by="33624" sby="0" ng="9" na="9">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/feev2?type=week&amp;startDate=2023-01-15&amp;endDate=2023-01-21</java.net.URL>
+</httpSample>
+<httpSample t="90" it="0" lt="89" ct="0" ts="1674131249223" s="true" lb="Classrooms" rc="200" rm="OK" tn="TestCase-3 1-7" dt="text" by="8557" sby="0" ng="8" na="8">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/standards</java.net.URL>
+</httpSample>
+<httpSample t="72" it="0" lt="71" ct="0" ts="1674131249317" s="true" lb="Courses" rc="200" rm="OK" tn="TestCase-3 1-7" dt="text" by="6776" sby="0" ng="8" na="8">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/standards/allCourses</java.net.URL>
+</httpSample>
+<httpSample t="1398" it="0" lt="1369" ct="0" ts="1674131248119" s="true" lb="Fee" rc="200" rm="OK" tn="TestCase-3 1-5" dt="text" by="33624" sby="0" ng="7" na="7">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/feev2?type=week&amp;startDate=2023-01-15&amp;endDate=2023-01-21</java.net.URL>
+</httpSample>
+<httpSample t="72" it="0" lt="71" ct="0" ts="1674131249519" s="true" lb="Classrooms" rc="200" rm="OK" tn="TestCase-3 1-5" dt="text" by="8557" sby="0" ng="7" na="7">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/standards</java.net.URL>
+</httpSample>
+<httpSample t="103" it="0" lt="103" ct="0" ts="1674131249591" s="true" lb="Courses" rc="200" rm="OK" tn="TestCase-3 1-5" dt="text" by="6776" sby="0" ng="7" na="7">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/standards/allCourses</java.net.URL>
+</httpSample>
+<httpSample t="1610" it="0" lt="1568" ct="0" ts="1674131248135" s="true" lb="Fee" rc="200" rm="OK" tn="TestCase-3 1-6" dt="text" by="33624" sby="0" ng="6" na="6">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/feev2?type=week&amp;startDate=2023-01-15&amp;endDate=2023-01-21</java.net.URL>
+</httpSample>
+<httpSample t="90" it="0" lt="89" ct="0" ts="1674131249747" s="true" lb="Classrooms" rc="200" rm="OK" tn="TestCase-3 1-6" dt="text" by="8557" sby="0" ng="6" na="6">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/standards</java.net.URL>
+</httpSample>
+<httpSample t="61" it="0" lt="61" ct="0" ts="1674131249838" s="true" lb="Courses" rc="200" rm="OK" tn="TestCase-3 1-6" dt="text" by="6776" sby="0" ng="6" na="6">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/standards/allCourses</java.net.URL>
+</httpSample>
+<httpSample t="1934" it="0" lt="1879" ct="0" ts="1674131248125" s="true" lb="Fee" rc="200" rm="OK" tn="TestCase-3 1-4" dt="text" by="33624" sby="0" ng="5" na="5">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/feev2?type=week&amp;startDate=2023-01-15&amp;endDate=2023-01-21</java.net.URL>
+</httpSample>
+<httpSample t="105" it="0" lt="95" ct="0" ts="1674131250061" s="true" lb="Classrooms" rc="200" rm="OK" tn="TestCase-3 1-4" dt="text" by="8557" sby="0" ng="5" na="5">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/standards</java.net.URL>
+</httpSample>
+<httpSample t="2061" it="0" lt="2029" ct="0" ts="1674131248137" s="true" lb="Fee" rc="200" rm="OK" tn="TestCase-3 1-9" dt="text" by="33624" sby="0" ng="5" na="5">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/feev2?type=week&amp;startDate=2023-01-15&amp;endDate=2023-01-21</java.net.URL>
+</httpSample>
+<httpSample t="70" it="0" lt="70" ct="0" ts="1674131250167" s="true" lb="Courses" rc="200" rm="OK" tn="TestCase-3 1-4" dt="text" by="6776" sby="0" ng="5" na="5">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/standards/allCourses</java.net.URL>
+</httpSample>
+<httpSample t="74" it="0" lt="70" ct="0" ts="1674131250199" s="true" lb="Classrooms" rc="200" rm="OK" tn="TestCase-3 1-9" dt="text" by="8557" sby="0" ng="4" na="4">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/standards</java.net.URL>
+</httpSample>
+<httpSample t="2179" it="0" lt="2168" ct="0" ts="1674131248121" s="true" lb="Fee" rc="200" rm="OK" tn="TestCase-3 1-2" dt="text" by="33624" sby="0" ng="4" na="4">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/feev2?type=week&amp;startDate=2023-01-15&amp;endDate=2023-01-21</java.net.URL>
+</httpSample>
+<httpSample t="65" it="0" lt="65" ct="0" ts="1674131250276" s="true" lb="Courses" rc="200" rm="OK" tn="TestCase-3 1-9" dt="text" by="6776" sby="0" ng="4" na="4">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/standards/allCourses</java.net.URL>
+</httpSample>
+<httpSample t="79" it="0" lt="77" ct="0" ts="1674131250301" s="true" lb="Classrooms" rc="200" rm="OK" tn="TestCase-3 1-2" dt="text" by="8557" sby="0" ng="3" na="3">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/standards</java.net.URL>
+</httpSample>
+<httpSample t="2300" it="0" lt="2267" ct="0" ts="1674131248122" s="true" lb="Fee" rc="200" rm="OK" tn="TestCase-3 1-3" dt="text" by="33624" sby="0" ng="3" na="3">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/feev2?type=week&amp;startDate=2023-01-15&amp;endDate=2023-01-21</java.net.URL>
+</httpSample>
+<httpSample t="64" it="0" lt="64" ct="0" ts="1674131250382" s="true" lb="Courses" rc="200" rm="OK" tn="TestCase-3 1-2" dt="text" by="6776" sby="0" ng="3" na="3">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/standards/allCourses</java.net.URL>
+</httpSample>
+<httpSample t="83" it="0" lt="81" ct="0" ts="1674131250423" s="true" lb="Classrooms" rc="200" rm="OK" tn="TestCase-3 1-3" dt="text" by="8557" sby="0" ng="2" na="2">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/standards</java.net.URL>
+</httpSample>
+<httpSample t="2424" it="0" lt="2395" ct="0" ts="1674131248117" s="true" lb="Fee" rc="200" rm="OK" tn="TestCase-3 1-8" dt="text" by="33624" sby="0" ng="2" na="2">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/feev2?type=week&amp;startDate=2023-01-15&amp;endDate=2023-01-21</java.net.URL>
+</httpSample>
+<httpSample t="85" it="0" lt="85" ct="0" ts="1674131250508" s="true" lb="Courses" rc="200" rm="OK" tn="TestCase-3 1-3" dt="text" by="6776" sby="0" ng="2" na="2">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/standards/allCourses</java.net.URL>
+</httpSample>
+<httpSample t="78" it="0" lt="75" ct="0" ts="1674131250545" s="true" lb="Classrooms" rc="200" rm="OK" tn="TestCase-3 1-8" dt="text" by="8557" sby="0" ng="1" na="1">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/standards</java.net.URL>
+</httpSample>
+<httpSample t="64" it="0" lt="63" ct="0" ts="1674131250624" s="true" lb="Courses" rc="200" rm="OK" tn="TestCase-3 1-8" dt="text" by="6776" sby="0" ng="1" na="1">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/standards/allCourses</java.net.URL>
+</httpSample>
+
+<httpSample t="911" it="0" lt="907" ct="0" ts="1674466091375" s="true" lb="SuperAdminLogin" rc="201" rm="Created" tn="TestCase-3 1-1" dt="text" by="6350" sby="0" ng="1" na="1">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/login/virtual-signin</java.net.URL>
+</httpSample>
+<httpSample t="109" it="0" lt="108" ct="0" ts="1674466092306" s="true" lb="Schedule" rc="200" rm="OK" tn="TestCase-3 1-1" dt="text" by="5409" sby="0" ng="1" na="1">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/schedule-new/</java.net.URL>
+</httpSample>
+<httpSample t="364" it="0" lt="363" ct="0" ts="1674466103338" s="true" lb="SuperAdminLogin" rc="201" rm="Created" tn="TestCase-3 1-2" dt="text" by="6350" sby="0" ng="2" na="2">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/login/virtual-signin</java.net.URL>
+</httpSample>
+<httpSample t="86" it="0" lt="86" ct="0" ts="1674466103711" s="true" lb="Schedule" rc="200" rm="OK" tn="TestCase-3 1-2" dt="text" by="5409" sby="0" ng="2" na="2">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/schedule-new/</java.net.URL>
+</httpSample>
+<httpSample t="273" it="0" lt="273" ct="0" ts="1674466115328" s="true" lb="SuperAdminLogin" rc="201" rm="Created" tn="TestCase-3 1-3" dt="text" by="6350" sby="0" ng="3" na="3">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/login/virtual-signin</java.net.URL>
+</httpSample>
+<httpSample t="89" it="0" lt="88" ct="0" ts="1674466115613" s="true" lb="Schedule" rc="200" rm="OK" tn="TestCase-3 1-3" dt="text" by="5409" sby="0" ng="3" na="3">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/schedule-new/</java.net.URL>
+</httpSample>
+<httpSample t="1589" it="0" lt="1588" ct="0" ts="1674466127326" s="true" lb="SuperAdminLogin" rc="201" rm="Created" tn="TestCase-3 1-4" dt="text" by="6350" sby="0" ng="4" na="4">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/login/virtual-signin</java.net.URL>
+</httpSample>
+<httpSample t="102" it="0" lt="102" ct="0" ts="1674466128916" s="true" lb="Schedule" rc="200" rm="OK" tn="TestCase-3 1-4" dt="text" by="5409" sby="0" ng="4" na="4">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/schedule-new/</java.net.URL>
+</httpSample>
+<httpSample t="401" it="0" lt="401" ct="0" ts="1674466139327" s="true" lb="SuperAdminLogin" rc="201" rm="Created" tn="TestCase-3 1-5" dt="text" by="6350" sby="0" ng="5" na="5">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/login/virtual-signin</java.net.URL>
+</httpSample>
+<httpSample t="127" it="0" lt="127" ct="0" ts="1674466139730" s="true" lb="Schedule" rc="200" rm="OK" tn="TestCase-3 1-5" dt="text" by="5409" sby="0" ng="5" na="5">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/schedule-new/</java.net.URL>
+</httpSample>
+<httpSample t="315" it="0" lt="315" ct="0" ts="1674466151327" s="true" lb="SuperAdminLogin" rc="201" rm="Created" tn="TestCase-3 1-6" dt="text" by="6350" sby="0" ng="6" na="6">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/login/virtual-signin</java.net.URL>
+</httpSample>
+<httpSample t="116" it="0" lt="115" ct="0" ts="1674466151644" s="true" lb="Schedule" rc="200" rm="OK" tn="TestCase-3 1-6" dt="text" by="5409" sby="0" ng="6" na="6">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/schedule-new/</java.net.URL>
+</httpSample>
+<httpSample t="362" it="0" lt="362" ct="0" ts="1674466163321" s="true" lb="SuperAdminLogin" rc="201" rm="Created" tn="TestCase-3 1-7" dt="text" by="6350" sby="0" ng="7" na="7">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/login/virtual-signin</java.net.URL>
+</httpSample>
+<httpSample t="216" it="0" lt="215" ct="0" ts="1674466163685" s="true" lb="Schedule" rc="200" rm="OK" tn="TestCase-3 1-7" dt="text" by="5409" sby="0" ng="7" na="7">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/schedule-new/</java.net.URL>
+</httpSample>
+<httpSample t="366" it="0" lt="366" ct="0" ts="1674466175320" s="true" lb="SuperAdminLogin" rc="201" rm="Created" tn="TestCase-3 1-8" dt="text" by="6350" sby="0" ng="8" na="8">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/login/virtual-signin</java.net.URL>
+</httpSample>
+<httpSample t="117" it="0" lt="117" ct="0" ts="1674466175689" s="true" lb="Schedule" rc="200" rm="OK" tn="TestCase-3 1-8" dt="text" by="5409" sby="0" ng="8" na="8">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/schedule-new/</java.net.URL>
+</httpSample>
+<httpSample t="303" it="0" lt="303" ct="0" ts="1674466187320" s="true" lb="SuperAdminLogin" rc="201" rm="Created" tn="TestCase-3 1-9" dt="text" by="6350" sby="0" ng="9" na="9">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/login/virtual-signin</java.net.URL>
+</httpSample>
+<httpSample t="100" it="0" lt="100" ct="0" ts="1674466187625" s="true" lb="Schedule" rc="200" rm="OK" tn="TestCase-3 1-9" dt="text" by="5409" sby="0" ng="9" na="9">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/schedule-new/</java.net.URL>
+</httpSample>
+<httpSample t="1427" it="0" lt="1427" ct="0" ts="1674466199331" s="true" lb="SuperAdminLogin" rc="201" rm="Created" tn="TestCase-3 1-10" dt="text" by="6350" sby="0" ng="10" na="10">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/login/virtual-signin</java.net.URL>
+</httpSample>
+<httpSample t="128" it="0" lt="128" ct="0" ts="1674466200765" s="true" lb="Schedule" rc="200" rm="OK" tn="TestCase-3 1-10" dt="text" by="5409" sby="0" ng="10" na="10">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/schedule-new/</java.net.URL>
+</httpSample>
+<httpSample t="379" it="0" lt="375" ct="0" ts="1674466200902" s="true" lb="UserManagement" rc="200" rm="OK" tn="TestCase-3 1-5" dt="text" by="5298" sby="0" ng="10" na="10">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/user/stats?type=week&amp;fromDate=2023-01-10&amp;toDate=2023-01-17</java.net.URL>
+</httpSample>
+<httpSample t="378" it="0" lt="378" ct="0" ts="1674466200904" s="true" lb="UserManagement" rc="200" rm="OK" tn="TestCase-3 1-7" dt="text" by="5298" sby="0" ng="10" na="10">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/user/stats?type=week&amp;fromDate=2023-01-10&amp;toDate=2023-01-17</java.net.URL>
+</httpSample>
+<httpSample t="390" it="0" lt="390" ct="0" ts="1674466200900" s="true" lb="UserManagement" rc="200" rm="OK" tn="TestCase-3 1-3" dt="text" by="5298" sby="0" ng="10" na="10">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/user/stats?type=week&amp;fromDate=2023-01-10&amp;toDate=2023-01-17</java.net.URL>
+</httpSample>
+<httpSample t="403" it="0" lt="402" ct="0" ts="1674466200897" s="true" lb="UserManagement" rc="200" rm="OK" tn="TestCase-3 1-1" dt="text" by="5298" sby="0" ng="10" na="10">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/user/stats?type=week&amp;fromDate=2023-01-10&amp;toDate=2023-01-17</java.net.URL>
+</httpSample>
+<httpSample t="428" it="0" lt="428" ct="0" ts="1674466200901" s="true" lb="UserManagement" rc="200" rm="OK" tn="TestCase-3 1-4" dt="text" by="5298" sby="0" ng="10" na="10">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/user/stats?type=week&amp;fromDate=2023-01-10&amp;toDate=2023-01-17</java.net.URL>
+</httpSample>
+<httpSample t="439" it="0" lt="438" ct="0" ts="1674466200904" s="true" lb="UserManagement" rc="200" rm="OK" tn="TestCase-3 1-8" dt="text" by="5298" sby="0" ng="10" na="10">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/user/stats?type=week&amp;fromDate=2023-01-10&amp;toDate=2023-01-17</java.net.URL>
+</httpSample>
+<httpSample t="449" it="0" lt="449" ct="0" ts="1674466200897" s="true" lb="UserManagement" rc="200" rm="OK" tn="TestCase-3 1-10" dt="text" by="5298" sby="0" ng="10" na="10">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/user/stats?type=week&amp;fromDate=2023-01-10&amp;toDate=2023-01-17</java.net.URL>
+</httpSample>
+<httpSample t="451" it="0" lt="451" ct="0" ts="1674466200898" s="true" lb="UserManagement" rc="200" rm="OK" tn="TestCase-3 1-2" dt="text" by="5298" sby="0" ng="10" na="10">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/user/stats?type=week&amp;fromDate=2023-01-10&amp;toDate=2023-01-17</java.net.URL>
+</httpSample>
+<httpSample t="445" it="0" lt="445" ct="0" ts="1674466200904" s="true" lb="UserManagement" rc="200" rm="OK" tn="TestCase-3 1-9" dt="text" by="5298" sby="0" ng="10" na="10">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/user/stats?type=week&amp;fromDate=2023-01-10&amp;toDate=2023-01-17</java.net.URL>
+</httpSample>
+<httpSample t="450" it="0" lt="446" ct="0" ts="1674466200903" s="true" lb="UserManagement" rc="200" rm="OK" tn="TestCase-3 1-6" dt="text" by="5298" sby="0" ng="10" na="10">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/user/stats?type=week&amp;fromDate=2023-01-10&amp;toDate=2023-01-17</java.net.URL>
+</httpSample>
+<httpSample t="656" it="0" lt="624" ct="0" ts="1674466201284" s="true" lb="Fee" rc="200" rm="OK" tn="TestCase-3 1-7" dt="text" by="33204" sby="0" ng="10" na="10">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/feev2?type=week&amp;startDate=2023-01-15&amp;endDate=2023-01-21</java.net.URL>
+</httpSample>
+<httpSample t="114" it="0" lt="113" ct="0" ts="1674466201945" s="true" lb="Classrooms" rc="200" rm="OK" tn="TestCase-3 1-7" dt="text" by="9040" sby="0" ng="10" na="10">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/standards</java.net.URL>
+</httpSample>
+<httpSample t="759" it="0" lt="718" ct="0" ts="1674466201301" s="true" lb="Fee" rc="200" rm="OK" tn="TestCase-3 1-1" dt="text" by="33204" sby="0" ng="10" na="10">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/feev2?type=week&amp;startDate=2023-01-15&amp;endDate=2023-01-21</java.net.URL>
+</httpSample>
+<httpSample t="86" it="0" lt="84" ct="0" ts="1674466202072" s="true" lb="Classrooms" rc="200" rm="OK" tn="TestCase-3 1-1" dt="text" by="9040" sby="0" ng="10" na="10">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/standards</java.net.URL>
+</httpSample>
+<httpSample t="136" it="0" lt="136" ct="0" ts="1674466202063" s="true" lb="Courses" rc="200" rm="OK" tn="TestCase-3 1-7" dt="text" by="6800" sby="0" ng="10" na="10">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/standards/allCourses</java.net.URL>
+</httpSample>
+<httpSample t="111" it="0" lt="110" ct="0" ts="1674466202161" s="true" lb="Courses" rc="200" rm="OK" tn="TestCase-3 1-1" dt="text" by="6800" sby="0" ng="9" na="9">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/standards/allCourses</java.net.URL>
+</httpSample>
+<httpSample t="985" it="0" lt="974" ct="0" ts="1674466201344" s="true" lb="Fee" rc="200" rm="OK" tn="TestCase-3 1-8" dt="text" by="33204" sby="0" ng="8" na="8">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/feev2?type=week&amp;startDate=2023-01-15&amp;endDate=2023-01-21</java.net.URL>
+</httpSample>
+<httpSample t="121" it="0" lt="121" ct="0" ts="1674466202337" s="true" lb="Classrooms" rc="200" rm="OK" tn="TestCase-3 1-8" dt="text" by="9040" sby="0" ng="8" na="8">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/standards</java.net.URL>
+</httpSample>
+<httpSample t="93" it="0" lt="92" ct="0" ts="1674466202459" s="true" lb="Courses" rc="200" rm="OK" tn="TestCase-3 1-8" dt="text" by="6800" sby="0" ng="8" na="8">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/standards/allCourses</java.net.URL>
+</httpSample>
+<httpSample t="1463" it="0" lt="1439" ct="0" ts="1674466201291" s="true" lb="Fee" rc="200" rm="OK" tn="TestCase-3 1-3" dt="text" by="33204" sby="0" ng="7" na="7">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/feev2?type=week&amp;startDate=2023-01-15&amp;endDate=2023-01-21</java.net.URL>
+</httpSample>
+<httpSample t="109" it="0" lt="109" ct="0" ts="1674466202757" s="true" lb="Classrooms" rc="200" rm="OK" tn="TestCase-3 1-3" dt="text" by="9040" sby="0" ng="7" na="7">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/standards</java.net.URL>
+</httpSample>
+<httpSample t="122" it="0" lt="122" ct="0" ts="1674466202867" s="true" lb="Courses" rc="200" rm="OK" tn="TestCase-3 1-3" dt="text" by="6800" sby="0" ng="7" na="7">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/standards/allCourses</java.net.URL>
+</httpSample>
+<httpSample t="1756" it="0" lt="1726" ct="0" ts="1674466201283" s="true" lb="Fee" rc="200" rm="OK" tn="TestCase-3 1-5" dt="text" by="33204" sby="0" ng="6" na="6">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/feev2?type=week&amp;startDate=2023-01-15&amp;endDate=2023-01-21</java.net.URL>
+</httpSample>
+<httpSample t="1801" it="0" lt="1769" ct="0" ts="1674466201350" s="true" lb="Fee" rc="200" rm="OK" tn="TestCase-3 1-9" dt="text" by="33204" sby="0" ng="6" na="6">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/feev2?type=week&amp;startDate=2023-01-15&amp;endDate=2023-01-21</java.net.URL>
+</httpSample>
+<httpSample t="113" it="0" lt="113" ct="0" ts="1674466203041" s="true" lb="Classrooms" rc="200" rm="OK" tn="TestCase-3 1-5" dt="text" by="9040" sby="0" ng="6" na="6">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/standards</java.net.URL>
+</httpSample>
+<httpSample t="81" it="0" lt="81" ct="0" ts="1674466203153" s="true" lb="Classrooms" rc="200" rm="OK" tn="TestCase-3 1-9" dt="text" by="9040" sby="0" ng="6" na="6">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/standards</java.net.URL>
+</httpSample>
+<httpSample t="121" it="0" lt="121" ct="0" ts="1674466203156" s="true" lb="Courses" rc="200" rm="OK" tn="TestCase-3 1-5" dt="text" by="6800" sby="0" ng="6" na="6">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/standards/allCourses</java.net.URL>
+</httpSample>
+<httpSample t="1951" it="0" lt="1926" ct="0" ts="1674466201350" s="true" lb="Fee" rc="200" rm="OK" tn="TestCase-3 1-2" dt="text" by="33204" sby="0" ng="5" na="5">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/feev2?type=week&amp;startDate=2023-01-15&amp;endDate=2023-01-21</java.net.URL>
+</httpSample>
+<httpSample t="66" it="0" lt="65" ct="0" ts="1674466203236" s="true" lb="Courses" rc="200" rm="OK" tn="TestCase-3 1-9" dt="text" by="6800" sby="0" ng="5" na="5">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/standards/allCourses</java.net.URL>
+</httpSample>
+<httpSample t="75" it="0" lt="75" ct="0" ts="1674466203303" s="true" lb="Classrooms" rc="200" rm="OK" tn="TestCase-3 1-2" dt="text" by="9040" sby="0" ng="4" na="4">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/standards</java.net.URL>
+</httpSample>
+<httpSample t="2073" it="0" lt="2033" ct="0" ts="1674466201347" s="true" lb="Fee" rc="200" rm="OK" tn="TestCase-3 1-10" dt="text" by="33204" sby="0" ng="4" na="4">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/feev2?type=week&amp;startDate=2023-01-15&amp;endDate=2023-01-21</java.net.URL>
+</httpSample>
+<httpSample t="94" it="0" lt="94" ct="0" ts="1674466203379" s="true" lb="Courses" rc="200" rm="OK" tn="TestCase-3 1-2" dt="text" by="6800" sby="0" ng="4" na="4">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/standards/allCourses</java.net.URL>
+</httpSample>
+<httpSample t="82" it="0" lt="81" ct="0" ts="1674466203422" s="true" lb="Classrooms" rc="200" rm="OK" tn="TestCase-3 1-10" dt="text" by="9040" sby="0" ng="3" na="3">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/standards</java.net.URL>
+</httpSample>
+<httpSample t="113" it="0" lt="112" ct="0" ts="1674466203505" s="true" lb="Courses" rc="200" rm="OK" tn="TestCase-3 1-10" dt="text" by="6800" sby="0" ng="3" na="3">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/standards/allCourses</java.net.URL>
+</httpSample>
+<httpSample t="2279" it="0" lt="2246" ct="0" ts="1674466201354" s="true" lb="Fee" rc="200" rm="OK" tn="TestCase-3 1-6" dt="text" by="33204" sby="0" ng="2" na="2">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/feev2?type=week&amp;startDate=2023-01-15&amp;endDate=2023-01-21</java.net.URL>
+</httpSample>
+<httpSample t="69" it="0" lt="69" ct="0" ts="1674466203635" s="true" lb="Classrooms" rc="200" rm="OK" tn="TestCase-3 1-6" dt="text" by="9040" sby="0" ng="2" na="2">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/standards</java.net.URL>
+</httpSample>
+<httpSample t="2402" it="0" lt="2367" ct="0" ts="1674466201330" s="true" lb="Fee" rc="200" rm="OK" tn="TestCase-3 1-4" dt="text" by="33204" sby="0" ng="2" na="2">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/feev2?type=week&amp;startDate=2023-01-15&amp;endDate=2023-01-21</java.net.URL>
+</httpSample>
+<httpSample t="103" it="0" lt="102" ct="0" ts="1674466203705" s="true" lb="Courses" rc="200" rm="OK" tn="TestCase-3 1-6" dt="text" by="6800" sby="0" ng="2" na="2">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/standards/allCourses</java.net.URL>
+</httpSample>
+<httpSample t="85" it="0" lt="85" ct="0" ts="1674466203735" s="true" lb="Classrooms" rc="200" rm="OK" tn="TestCase-3 1-4" dt="text" by="9040" sby="0" ng="1" na="1">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/standards</java.net.URL>
+</httpSample>
+<httpSample t="92" it="0" lt="91" ct="0" ts="1674466203822" s="true" lb="Courses" rc="200" rm="OK" tn="TestCase-3 1-4" dt="text" by="6800" sby="0" ng="1" na="1">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://test.aulas.one/api/standards/allCourses</java.net.URL>
+</httpSample>
+
+</testResults>
